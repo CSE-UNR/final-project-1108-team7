@@ -1,4 +1,4 @@
-//Noe Rios
+//Noe Rios, Brennan Graham
 #include <stdio.h>
 #define FILENAME "madlib1.txt" 
 #define MAXWORDLENGTH 20
