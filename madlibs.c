@@ -1,4 +1,4 @@
-//Noe Rios, Nicholas Love, Brennen Graham
+//Noe Rios, Nicholas Love, Brennan Graham
 #include <stdio.h>
 // File containing the Mad Libs template
 #define FILENAME "madlib1.txt" 
